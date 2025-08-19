@@ -46,10 +46,4 @@
 
 ---
 
-### 🚀 Featured Projects
-✅ [Portfolio Website](https://gagan-dev.vercel.app/) – Built with React + MUI  
-✅ [Tech Blog Articles](https://medium.com/@gaganraj0418) – Sharing knowledge on React, Java & Spring Boot  
-
----
-
 ✨ *“Great software is not built overnight—it’s crafted with passion, patience, and persistence.”*
